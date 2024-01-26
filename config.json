@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "jatoespeciales.aternos.me",
+		"port": "20357",
+		"username": "BotOn"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
